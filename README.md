@@ -4,9 +4,7 @@ FastlanePy is a Python toolkit designed to empower AI agents to interact seamles
 
 
 
-[<img src="https://img.shields.io/github/stars/fastlanepython/FastlanePy?style=social" alt="GitHub Stars">](https://github.com/fastlanepython/FastlanePy)
-[<img src="https://static.pepy.tech/personalized-badge/FastlanePy?period=total&units=international_system&left_color=grey&right_color=blue&left_text=Downloads" alt="Total Downloads">](https://pypi.org/project/FastlanePy/)
-[<img src="https://img.shields.io/pypi/v/FastlanePy.svg" alt="PyPI Version">](https://pypi.org/project/FastlanePy/)
+[<img src="https://img.shields.io/github/stars/fastlanepython/FastlanePy?style=social" alt="GitHub Stars">]
 [<img src="https://img.shields.io/github/issues/fastlanepython/FastlanePy" alt="Open Issues">](https://github.com/fastlanepython/FastlanePy/issues)
 [<img src="https://img.shields.io/badge/python-3.8%2B-blue" alt="Python Version">](https://pypi.org/project/FastlanePy/)
 [<img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">](https://github.com/fastlanepython/FastlanePy/blob/main/LICENSE)

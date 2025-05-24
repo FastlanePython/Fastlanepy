@@ -647,7 +647,7 @@ A Model Context Protocol (MCP) server that provides on-chain tools for Claude AI
 FastlanePy encourages community contributions, with developers invited to fork the repository at [github.com/fastlanepython/FastlanePy/](https://github.com/fastlanepython/FastlanePy/), submit pull requests, and report issues via GitHub Issues. This collaborative approach fosters continuous improvement and innovation within the ecosystem.
 
 #### 📜 Licensing and Contact Information
-FastlanePy is licensed under the MIT License, ensuring open access and flexibility for developers. For support, contact [support@FastlanePy.com](mailto:support@FastlanePy.com), follow updates on X at [@FastlanePy](https://x.com/FastlanePy), or join the community on Discord at [Join our Discord Community](https://discord.com/invite/FastlanePy).
+FastlanePy is licensed under the MIT License, ensuring open access and flexibility for developers. Follow updates on X at [@FastlanePy](https://x.com/FastlanePy).
 
 
 
